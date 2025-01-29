@@ -1,3 +1,7 @@
 images/
 images_small/
 data.json
+all_cards.csv
+all-folders.csv
+cache
+__pycache__
